@@ -1,0 +1,7 @@
+{
+  "name": "ScopeGuard AI",
+  "description": "AI-powered Change Impact Analyzer for Business Analysts, Product Managers, and Solution Architects to assess risks, dependencies, and regression scope before implementation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
